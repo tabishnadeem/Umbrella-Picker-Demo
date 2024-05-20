@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Umbrella</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="custom-umbrella" id="container">
+        <div>
+            <div class="left-content">
+                <div class="image-container">
+                    <img src="./assets/BlueUmbrella.png" width="400" height="350" alt="Custom Umbrella"
+                        class="umbrella-image" id="umbrella">
+                    <img class="hidden" id="logo-display" src="" width="28" height="28">
+                </div>
+                <div class="loader hidden">
+                    <img class="animate" src="./assets/loader_icon.svg" alt="loader-image">
+                </div>
+            </div>
+        </div>
+        <div class="customize-section">
+            <div>
+                <h1>Custom Umbrella</h1>
+                <div class="color-options">
+                    <span class="color" style="background-color: #0af;" data-color="umbrella-blue.png"></span>
+                    <span class="color" style="background-color: #f0f;" data-color="umbrella-pink.png"></span>
+                    <span class="color" style="background-color: #fa0;" data-color="umbrella-yellow.png"></span>
+                </div>
+            </div>
+            <div class="footer">
+                <p>Customize your umbrella</p>
+                <label for="logo-upload" class="upload-label">Upload a logo for an instant preview.</label>
+                <p id="info">.png and .jpg files only. Max file size is 5MB</p>
+                <div class="upload-button"><span id="button-logo"><img id="btn-logo-img" src="./assets/upload_icon.svg"
+                            width="14" height="14" alt="upload-icon"></span> <span id="button-label">UPLOAD LOGO</span>
+                    <span id="cross-icon" class="hidden"><img src="./assets/cross.svg" width="14" height="14"
+                            alt="cross-icon"></span></div>
+                <input type="file" id="logo-input" accept=".png, .jpg" class="hidden">
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
