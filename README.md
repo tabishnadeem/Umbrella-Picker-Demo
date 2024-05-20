@@ -1,6 +1,6 @@
 # Custom Umbrella Customizer
 
-This project is a custom umbrella customization tool for a seller. It allows corporate brands to upload their logos and create an instant preview of a customized umbrella on the website. The tool supports multiple umbrella colors, and the theme of the customization tool changes according to the selected color.
+This project is a custom umbrella customization tool that creates an instant preview of a customized umbrella on the website. The tool supports multiple umbrella colors, and the theme of the customization tool changes according to the selected color.
 
 ## Features
 
@@ -25,7 +25,7 @@ You need a web browser to run this project.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/custom-umbrella.git
+    git clone https://github.com/tabishnadeem/custom-umbrella.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -52,7 +52,7 @@ You need a web browser to run this project.
 
 - Clone the repository:
     ```bash
-    git clone https://github.com/your-username/custom-umbrella.git
+    git clone https://github.com/tabishnadeem/custom-umbrella.git
     ```
 
 - Navigate to the project directory:
