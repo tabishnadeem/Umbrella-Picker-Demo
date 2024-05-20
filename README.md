@@ -25,7 +25,7 @@ You need a web browser to run this project.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/tabishnadeem/custom-umbrella.git
+    git clone [https://github.com/tabishnadeem/custom-umbrella.git](https://github.com/tabishnadeem/Umbrella-Picker-Demo.git)
     ```
 2. Navigate to the project directory:
     ```bash
@@ -52,7 +52,7 @@ You need a web browser to run this project.
 
 - Clone the repository:
     ```bash
-    git clone https://github.com/tabishnadeem/custom-umbrella.git
+    git clone [https://github.com/tabishnadeem/custom-umbrella.git](https://github.com/tabishnadeem/Umbrella-Picker-Demo.git)
     ```
 
 - Navigate to the project directory:
